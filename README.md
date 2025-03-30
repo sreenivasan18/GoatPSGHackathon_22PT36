@@ -151,8 +151,6 @@ python src/main.py
 
 ---
 
-## 📸 Screenshots
-
 | Spawn Mode | Task Mode |
 |------------|-----------|
 | Spawn robots by clicking vertices. | Assign tasks by selecting **robot → destination**. |
