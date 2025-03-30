@@ -1,0 +1,597 @@
+2025-03-29 22:47:28,288 - INFO - Starting Fleet Management System
+2025-03-29 22:53:57,643 - INFO - Starting Fleet Management System
+2025-03-29 22:57:03,734 - INFO - Starting Fleet Management System
+2025-03-29 22:57:13,861 - ERROR - Error handling click: 'FleetManager' object has no attribute 'emergency_stop'
+2025-03-29 23:05:57,211 - INFO - Starting Fleet Management System
+2025-03-29 23:06:10,235 - ERROR - Error handling click: 'FleetManager' object has no attribute 'emergency_stop'
+2025-03-29 23:08:49,228 - INFO - Starting Fleet Management System
+2025-03-29 23:25:41,655 - INFO - Starting Fleet Management System
+2025-03-29 23:43:54,078 - INFO - Starting Fleet Management System
+2025-03-29 23:43:55,824 - INFO - Robot 0 created at vertex 3
+2025-03-29 23:43:55,824 - INFO - Robot spawned at vertex 3
+2025-03-29 23:55:02,584 - INFO - Starting Fleet Management System
+2025-03-29 23:55:05,373 - INFO - Robot 0 created at vertex 1
+2025-03-29 23:55:05,373 - INFO - Robot spawned at vertex 1
+2025-03-29 23:55:07,660 - INFO - Robot 1 created at vertex 13
+2025-03-29 23:55:07,661 - INFO - Robot spawned at vertex 13
+2025-03-30 00:03:59,809 - INFO - Starting Fleet Management System
+2025-03-30 00:04:01,977 - INFO - Robot 0 created at vertex 3
+2025-03-30 00:04:01,977 - INFO - Robot spawned at vertex 3
+2025-03-30 00:04:03,307 - INFO - Robot 1 created at vertex 7
+2025-03-30 00:04:03,307 - INFO - Robot spawned at vertex 7
+2025-03-30 00:04:05,484 - WARNING - No valid path found
+2025-03-30 00:07:57,071 - INFO - Starting Fleet Management System
+2025-03-30 00:08:01,207 - INFO - Robot 0 created at vertex 3
+2025-03-30 00:08:01,207 - INFO - Robot spawned at vertex 3
+2025-03-30 00:08:03,684 - INFO - Robot 1 created at vertex 12
+2025-03-30 00:08:03,684 - INFO - Robot spawned at vertex 12
+2025-03-30 00:18:41,809 - INFO - Starting Fleet Management System
+2025-03-30 00:20:48,735 - INFO - Starting Fleet Management System
+2025-03-30 00:28:17,956 - INFO - Starting Fleet Management System
+2025-03-30 00:29:49,579 - INFO - Starting Fleet Management System
+2025-03-30 00:31:39,760 - INFO - Starting Fleet Management System
+2025-03-30 00:34:11,387 - INFO - Starting Fleet Management System
+2025-03-30 00:38:00,371 - INFO - Starting Fleet Management System
+2025-03-30 00:38:02,176 - INFO - Robot 0 created at vertex 3
+2025-03-30 00:39:05,272 - INFO - Starting Fleet Management System
+2025-03-30 00:39:06,717 - INFO - Robot 0 created at vertex 3
+2025-03-30 00:39:09,837 - INFO - Robot 1 created at vertex 6
+2025-03-30 00:43:46,159 - INFO - Starting Fleet Management System
+2025-03-30 00:43:49,761 - INFO - Robot 0 created at vertex 3
+2025-03-30 00:43:51,338 - INFO - Robot 1 created at vertex 6
+2025-03-30 00:47:02,568 - INFO - Starting Fleet Management System
+2025-03-30 00:47:08,901 - INFO - Robot 0 created at vertex 3
+2025-03-30 00:47:12,114 - INFO - Robot 1 created at vertex 11
+2025-03-30 00:51:33,508 - INFO - Starting Fleet Management System
+2025-03-30 00:53:32,151 - INFO - Robot 0 created at vertex 3
+2025-03-30 00:53:33,828 - INFO - Robot 1 created at vertex 7
+2025-03-30 00:53:37,406 - INFO - Assigned path to Robot 0: [3, 1, 10]
+2025-03-30 00:53:40,877 - INFO - Robot 0 completed task
+2025-03-30 00:53:43,897 - INFO - Assigned path to Robot 1: [7, 6, 11]
+2025-03-30 00:53:47,404 - INFO - Robot 1 completed task
+2025-03-30 00:53:49,726 - INFO - Robot 2 created at vertex 13
+2025-03-30 00:53:56,249 - INFO - Assigned path to Robot 0: [10, 0]
+2025-03-30 00:53:56,824 - INFO - Robot 0 completed task
+2025-03-30 00:54:00,160 - INFO - Assigned path to Robot 1: [11, 5]
+2025-03-30 00:54:00,776 - INFO - Robot 1 completed task
+2025-03-30 00:54:04,049 - WARNING - Path not available for Robot 2
+2025-03-30 00:54:04,946 - WARNING - Path not available for Robot 2
+2025-03-30 00:54:05,854 - WARNING - Path not available for Robot 2
+2025-03-30 00:54:06,133 - WARNING - Path not available for Robot 2
+2025-03-30 00:54:06,314 - WARNING - Path not available for Robot 2
+2025-03-30 00:54:06,480 - WARNING - Path not available for Robot 2
+2025-03-30 00:54:06,663 - WARNING - Path not available for Robot 2
+2025-03-30 00:54:07,995 - WARNING - Path not available for Robot 2
+2025-03-30 00:54:08,244 - WARNING - Path not available for Robot 2
+2025-03-30 00:54:08,425 - WARNING - Path not available for Robot 2
+2025-03-30 00:54:08,592 - WARNING - Path not available for Robot 2
+2025-03-30 00:54:08,741 - WARNING - Path not available for Robot 2
+2025-03-30 00:54:12,742 - INFO - Robot 3 created at vertex 7
+2025-03-30 00:54:15,841 - INFO - Assigned path to Robot 0: [0, 10, 1, 3]
+2025-03-30 00:54:19,872 - INFO - Robot 0 completed task
+2025-03-30 00:54:21,755 - INFO - Assigned path to Robot 1: [5, 4, 0, 10]
+2025-03-30 00:54:22,824 - INFO - Robot 1 started charging
+2025-03-30 00:54:41,154 - INFO - Robot 4 created at vertex 3
+2025-03-30 00:54:47,878 - INFO - Robot 5 created at vertex 6
+2025-03-30 00:54:54,063 - INFO - Assigned path to Robot 4: [3, 1, 10, 0]
+2025-03-30 00:54:58,101 - INFO - Robot 4 completed task
+2025-03-30 00:55:01,397 - INFO - Assigned path to Robot 5: [6, 11, 5]
+2025-03-30 00:55:03,657 - INFO - Robot 5 completed task
+2025-03-30 00:55:10,550 - WARNING - Path not available for Robot 4
+2025-03-30 00:55:11,411 - WARNING - Path not available for Robot 4
+2025-03-30 00:55:17,621 - WARNING - Path not available for Robot 4
+2025-03-30 00:55:19,321 - INFO - Assigned path to Robot 4: [0, 10, 1, 3]
+2025-03-30 00:55:23,353 - INFO - Robot 4 completed task
+2025-03-30 01:03:14,409 - INFO - Starting Fleet Management System
+2025-03-30 01:04:24,392 - INFO - Starting Fleet Management System
+2025-03-30 01:04:28,721 - INFO - Robot 0 created at vertex 3
+2025-03-30 01:04:31,997 - INFO - Robot 1 created at vertex 11
+2025-03-30 01:04:35,423 - INFO - Assigned path to Robot 0: [3, 1, 10, 0]
+2025-03-30 01:04:39,459 - INFO - Robot 0 completed task
+2025-03-30 01:04:45,760 - INFO - Assigned path to Robot 0: [0, 10, 1, 3]
+2025-03-30 01:04:49,788 - INFO - Robot 0 completed task
+2025-03-30 01:04:54,956 - INFO - Assigned path to Robot 0: [3, 13, 2]
+2025-03-30 01:04:57,260 - INFO - Robot 0 completed task
+2025-03-30 01:05:01,690 - INFO - Assigned path to Robot 0: [2, 13, 3, 1, 10]
+2025-03-30 01:05:07,442 - INFO - Robot 0 completed task
+2025-03-30 01:05:09,492 - INFO - Assigned path to Robot 1: [11, 6, 7, 12]
+2025-03-30 01:05:14,642 - INFO - Robot 1 completed task
+2025-03-30 01:05:20,898 - INFO - Assigned path to Robot 0: [10, 1, 3, 13, 2]
+2025-03-30 01:05:26,652 - INFO - Robot 0 completed task
+2025-03-30 01:05:31,083 - WARNING - Path not available for Robot 1
+2025-03-30 01:05:32,131 - WARNING - Path not available for Robot 1
+2025-03-30 01:05:32,581 - WARNING - Path not available for Robot 1
+2025-03-30 01:05:32,833 - WARNING - Path not available for Robot 1
+2025-03-30 01:05:33,029 - WARNING - Path not available for Robot 1
+2025-03-30 01:05:33,211 - WARNING - Path not available for Robot 1
+2025-03-30 01:05:33,411 - WARNING - Path not available for Robot 1
+2025-03-30 01:05:33,624 - WARNING - Path not available for Robot 1
+2025-03-30 01:05:33,805 - WARNING - Path not available for Robot 1
+2025-03-30 01:05:34,055 - WARNING - Path not available for Robot 1
+2025-03-30 01:05:34,257 - WARNING - Path not available for Robot 1
+2025-03-30 01:14:42,521 - INFO - Starting Fleet Management System
+2025-03-30 01:14:48,493 - INFO - Robot 0 created at vertex 3
+2025-03-30 01:14:50,433 - INFO - Robot 1 created at vertex 12
+2025-03-30 01:15:48,937 - INFO - Starting Fleet Management System
+2025-03-30 01:15:52,566 - INFO - Robot 0 created at vertex 3
+2025-03-30 01:15:54,171 - INFO - Robot 1 created at vertex 11
+2025-03-30 01:16:40,562 - INFO - Starting Fleet Management System
+2025-03-30 01:16:43,691 - INFO - Robot 0 created at vertex 3
+2025-03-30 01:16:45,566 - INFO - Robot 1 created at vertex 6
+2025-03-30 01:16:49,661 - INFO - Assigned path to Robot 0: [3, 13, 2, 9, 8, 12]
+2025-03-30 01:16:53,073 - INFO - Robot 0 started charging
+2025-03-30 01:16:55,347 - INFO - Assigned path to Robot 1: [6, 7, 12]
+2025-03-30 01:16:58,829 - INFO - Robot 1 completed task
+2025-03-30 01:17:02,677 - INFO - Robot 2 created at vertex 10
+2025-03-30 01:17:07,823 - WARNING - Path not available for Robot 0
+2025-03-30 01:17:08,842 - WARNING - Path not available for Robot 0
+2025-03-30 01:17:11,768 - INFO - Assigned path to Robot 0: [9, 2, 13, 3, 1]
+2025-03-30 01:17:16,943 - INFO - Robot 0 completed task
+2025-03-30 01:17:19,351 - INFO - Assigned path to Robot 1: [12, 8, 9, 2, 13, 3]
+2025-03-30 01:17:21,041 - INFO - Robot 1 started charging
+2025-03-30 01:17:21,788 - WARNING - Path not available for Robot 2
+2025-03-30 01:17:22,933 - WARNING - Path not available for Robot 2
+2025-03-30 01:17:25,868 - INFO - Assigned path to Robot 2: [10, 0, 4, 5, 11]
+2025-03-30 01:17:27,516 - INFO - Robot 2 started charging
+2025-03-30 01:17:28,595 - INFO - Robot 3 created at vertex 11
+2025-03-30 01:17:30,472 - INFO - Robot 4 created at vertex 6
+2025-03-30 01:17:34,807 - WARNING - Path not available for Robot 0
+2025-03-30 01:17:39,072 - WARNING - Path not available for Robot 0
+2025-03-30 01:23:04,315 - INFO - Starting Fleet Management System
+2025-03-30 01:23:05,626 - INFO - Robot 0 created at vertex 1
+2025-03-30 01:23:07,174 - INFO - Robot 1 created at vertex 12
+2025-03-30 01:23:11,802 - WARNING - Path not available for Robot 0
+2025-03-30 01:29:37,117 - INFO - Starting Fleet Management System
+2025-03-30 01:29:40,990 - INFO - Robot 0 created at vertex 3
+2025-03-30 01:29:43,921 - INFO - Robot 1 created at vertex 7
+2025-03-30 01:29:48,086 - INFO - Robot 0 cannot take shortest path - attempting alternative route
+2025-03-30 01:29:48,087 - INFO - Robot 0 taking alternative path: [3, 13, 2]
+2025-03-30 01:29:50,759 - INFO - Robot 1 cannot take shortest path - attempting alternative route
+2025-03-30 01:29:50,759 - INFO - Robot 1 taking alternative path: [7, 12, 8, 9, 2]
+2025-03-30 01:29:53,089 - INFO - Robot 2 created at vertex 2
+2025-03-30 01:30:02,154 - INFO - Robot 3 created at vertex 12
+2025-03-30 01:30:07,685 - INFO - Robot 4 created at vertex 3
+2025-03-30 01:30:09,674 - INFO - Robot 5 created at vertex 11
+2025-03-30 01:30:25,853 - INFO - Robot 6 created at vertex 10
+2025-03-30 01:30:27,271 - INFO - Robot 7 created at vertex 12
+2025-03-30 01:30:32,237 - INFO - Robot 6 cannot take shortest path - attempting alternative route
+2025-03-30 01:30:32,237 - INFO - Robot 6 taking alternative path: [10, 1, 3, 13]
+2025-03-30 01:30:38,337 - INFO - Robot 7 cannot take shortest path - attempting alternative route
+2025-03-30 01:30:38,338 - INFO - Robot 7 taking alternative path: [12, 8, 9, 2, 13]
+2025-03-30 01:30:42,121 - INFO - Robot 8 created at vertex 13
+2025-03-30 01:30:50,086 - INFO - Robot 9 created at vertex 13
+2025-03-30 01:30:52,290 - INFO - Robot 10 created at vertex 11
+2025-03-30 01:30:55,348 - INFO - Robot 9 cannot take shortest path - attempting alternative route
+2025-03-30 01:30:55,348 - INFO - Robot 9 taking alternative path: [13, 3, 1, 10, 0, 4, 5]
+2025-03-30 01:35:19,198 - INFO - Starting Fleet Management System
+2025-03-30 01:35:23,630 - INFO - Robot 0 created at vertex 10
+2025-03-30 01:37:08,010 - INFO - Starting Fleet Management System
+2025-03-30 01:37:11,829 - INFO - Robot 0 created at vertex 3
+2025-03-30 01:37:13,183 - INFO - Robot 1 created at vertex 11
+2025-03-30 01:39:13,519 - INFO - Starting Fleet Management System
+2025-03-30 01:39:17,557 - INFO - Robot 0 created at vertex 3
+2025-03-30 01:39:19,143 - INFO - Robot 1 created at vertex 11
+2025-03-30 01:39:21,693 - INFO - Alternative path found: [3, 13, 2]
+2025-03-30 01:39:21,693 - INFO - Robot 0 cannot take shortest path - attempting alternative route
+2025-03-30 01:39:21,693 - INFO - Alternative path found: [3, 13, 2]
+2025-03-30 01:39:21,694 - INFO - Robot 0 taking alternative path: [3, 13, 2]
+2025-03-30 01:39:26,556 - INFO - Alternative path found: [11, 6, 7, 12, 8, 9, 2]
+2025-03-30 01:39:26,556 - INFO - Robot 1 cannot take shortest path - attempting alternative route
+2025-03-30 01:39:26,556 - INFO - Alternative path found: [11, 6, 7, 12, 8, 9, 2]
+2025-03-30 01:39:26,556 - INFO - Robot 1 taking alternative path: [11, 6, 7, 12, 8, 9, 2]
+2025-03-30 01:39:34,181 - INFO - Robot 2 created at vertex 10
+2025-03-30 01:39:36,974 - INFO - Robot 3 created at vertex 1
+2025-03-30 01:39:41,560 - INFO - Alternative path found: [3, 1, 10, 0]
+2025-03-30 01:39:41,560 - INFO - Robot 0 cannot take shortest path - attempting alternative route
+2025-03-30 01:39:41,561 - INFO - Alternative path found: [3, 1, 10, 0]
+2025-03-30 01:39:41,561 - INFO - Robot 0 taking alternative path: [3, 1, 10, 0]
+2025-03-30 01:39:41,561 - WARNING - Could not reserve path for Robot 0
+2025-03-30 01:39:42,424 - INFO - Alternative path found: [3, 1, 10, 0]
+2025-03-30 01:39:42,424 - INFO - Robot 0 cannot take shortest path - attempting alternative route
+2025-03-30 01:39:42,424 - INFO - Alternative path found: [3, 1, 10, 0]
+2025-03-30 01:39:42,424 - INFO - Robot 0 taking alternative path: [3, 1, 10, 0]
+2025-03-30 01:39:42,424 - WARNING - Could not reserve path for Robot 0
+2025-03-30 01:39:46,380 - INFO - Alternative path found: [3, 1, 10, 0]
+2025-03-30 01:39:46,380 - INFO - Robot 0 cannot take shortest path - attempting alternative route
+2025-03-30 01:39:46,381 - INFO - Alternative path found: [3, 1, 10, 0]
+2025-03-30 01:39:46,381 - INFO - Robot 0 taking alternative path: [3, 1, 10, 0]
+2025-03-30 01:39:46,381 - WARNING - Could not reserve path for Robot 0
+2025-03-30 01:39:47,505 - INFO - Alternative path found: [3, 1, 10, 0]
+2025-03-30 01:39:47,505 - INFO - Robot 0 cannot take shortest path - attempting alternative route
+2025-03-30 01:39:47,505 - INFO - Alternative path found: [3, 1, 10, 0]
+2025-03-30 01:39:47,505 - INFO - Robot 0 taking alternative path: [3, 1, 10, 0]
+2025-03-30 01:39:47,506 - WARNING - Could not reserve path for Robot 0
+2025-03-30 01:43:42,485 - INFO - Starting Fleet Management System
+2025-03-30 01:43:45,393 - INFO - Robot 0 created at vertex 3
+2025-03-30 01:43:47,114 - INFO - Robot 1 created at vertex 11
+2025-03-30 01:44:54,348 - INFO - Starting Fleet Management System
+2025-03-30 01:44:58,115 - INFO - Robot 0 created at vertex 3
+2025-03-30 01:44:59,352 - INFO - Robot 1 created at vertex 7
+2025-03-30 01:45:02,338 - INFO - Alternative path found: [3, 1, 10, 0]
+2025-03-30 01:45:02,339 - INFO - Robot 0 cannot take shortest path - attempting alternative route
+2025-03-30 01:45:02,339 - INFO - Alternative path found: [3, 1, 10, 0]
+2025-03-30 01:45:02,339 - INFO - Robot 0 taking alternative path: [3, 1, 10, 0]
+2025-03-30 01:48:15,107 - INFO - Starting Fleet Management System
+2025-03-30 01:48:20,144 - INFO - Robot 0 created at vertex 3
+2025-03-30 01:48:21,541 - INFO - Robot 1 created at vertex 6
+2025-03-30 01:48:25,476 - INFO - Alternative path found: [3, 1, 10, 0]
+2025-03-30 01:48:25,477 - INFO - Robot 0 cannot take shortest path - attempting alternative route
+2025-03-30 01:48:25,477 - INFO - Alternative path found: [3, 1, 10, 0]
+2025-03-30 01:48:25,477 - INFO - Robot 0 taking alternative path: [3, 1, 10, 0]
+2025-03-30 01:52:01,284 - INFO - Starting Fleet Management System
+2025-03-30 01:52:04,864 - INFO - Robot 0 created at vertex 3
+2025-03-30 01:52:06,176 - INFO - Robot 1 created at vertex 7
+2025-03-30 01:52:09,391 - INFO - Alternative path found: [3, 1, 10, 0]
+2025-03-30 01:52:09,392 - INFO - Robot 0 cannot take shortest path - attempting alternative route
+2025-03-30 01:52:09,392 - INFO - Alternative path found: [3, 1, 10, 0]
+2025-03-30 01:52:09,392 - INFO - Robot 0 taking alternative path: [3, 1, 10, 0]
+2025-03-30 01:52:16,627 - INFO - Alternative path found: [7, 6]
+2025-03-30 01:52:16,627 - INFO - Robot 1 cannot take shortest path - attempting alternative route
+2025-03-30 01:52:16,627 - INFO - Alternative path found: [7, 6]
+2025-03-30 01:52:16,627 - INFO - Robot 1 taking alternative path: [7, 6]
+2025-03-30 01:52:27,805 - INFO - Alternative path found: [0, 10, 1, 3, 13, 2]
+2025-03-30 01:52:27,805 - INFO - Robot 0 cannot take shortest path - attempting alternative route
+2025-03-30 01:52:27,805 - INFO - Alternative path found: [0, 10, 1, 3, 13, 2]
+2025-03-30 01:52:27,805 - INFO - Robot 0 taking alternative path: [0, 10, 1, 3, 13, 2]
+2025-03-30 01:52:32,194 - INFO - Alternative path found: [2, 9, 8, 12]
+2025-03-30 01:52:32,195 - INFO - Robot 0 cannot take shortest path - attempting alternative route
+2025-03-30 01:52:32,195 - INFO - Alternative path found: [2, 9, 8, 12]
+2025-03-30 01:52:32,195 - INFO - Robot 0 taking alternative path: [2, 9, 8, 12]
+2025-03-30 01:52:35,840 - INFO - Alternative path found: [6, 11]
+2025-03-30 01:52:35,840 - INFO - Robot 1 cannot take shortest path - attempting alternative route
+2025-03-30 01:52:35,840 - INFO - Alternative path found: [6, 11]
+2025-03-30 01:52:35,840 - INFO - Robot 1 taking alternative path: [6, 11]
+2025-03-30 01:52:41,451 - INFO - Alternative path found: [12, 8, 9, 2, 13, 3, 1, 10, 0]
+2025-03-30 01:52:41,452 - INFO - Robot 0 cannot take shortest path - attempting alternative route
+2025-03-30 01:52:41,452 - INFO - Alternative path found: [12, 8, 9, 2, 13, 3, 1, 10, 0]
+2025-03-30 01:52:41,452 - INFO - Robot 0 taking alternative path: [12, 8, 9, 2, 13, 3, 1, 10, 0]
+2025-03-30 01:52:49,704 - INFO - Alternative path found: [0, 10, 1]
+2025-03-30 01:52:49,705 - INFO - Robot 0 cannot take shortest path - attempting alternative route
+2025-03-30 01:52:49,705 - INFO - Alternative path found: [0, 10, 1]
+2025-03-30 01:52:49,705 - INFO - Robot 0 taking alternative path: [0, 10, 1]
+2025-03-30 01:52:54,059 - INFO - Alternative path found: [11, 6, 7, 12, 8, 9, 2, 13, 3]
+2025-03-30 01:52:54,059 - INFO - Robot 1 cannot take shortest path - attempting alternative route
+2025-03-30 01:52:54,060 - INFO - Alternative path found: [11, 6, 7, 12, 8, 9, 2, 13, 3]
+2025-03-30 01:52:54,060 - INFO - Robot 1 taking alternative path: [11, 6, 7, 12, 8, 9, 2, 13, 3]
+2025-03-30 01:52:54,060 - WARNING - Could not reserve path for Robot 1
+2025-03-30 01:52:57,066 - INFO - Alternative path found: [11, 6, 7, 12, 8, 9, 2, 13, 3]
+2025-03-30 01:52:57,067 - INFO - Robot 1 cannot take shortest path - attempting alternative route
+2025-03-30 01:52:57,067 - INFO - Alternative path found: [11, 6, 7, 12, 8, 9, 2, 13, 3]
+2025-03-30 01:52:57,067 - INFO - Robot 1 taking alternative path: [11, 6, 7, 12, 8, 9, 2, 13, 3]
+2025-03-30 01:52:57,067 - WARNING - Could not reserve path for Robot 1
+2025-03-30 01:52:57,594 - INFO - Alternative path found: [11, 6, 7, 12, 8, 9, 2, 13, 3]
+2025-03-30 01:52:57,595 - INFO - Robot 1 cannot take shortest path - attempting alternative route
+2025-03-30 01:52:57,595 - INFO - Alternative path found: [11, 6, 7, 12, 8, 9, 2, 13, 3]
+2025-03-30 01:52:57,595 - INFO - Robot 1 taking alternative path: [11, 6, 7, 12, 8, 9, 2, 13, 3]
+2025-03-30 01:52:57,595 - WARNING - Could not reserve path for Robot 1
+2025-03-30 01:52:57,861 - INFO - Alternative path found: [11, 6, 7, 12, 8, 9, 2, 13, 3]
+2025-03-30 01:52:57,861 - INFO - Robot 1 cannot take shortest path - attempting alternative route
+2025-03-30 01:52:57,861 - INFO - Alternative path found: [11, 6, 7, 12, 8, 9, 2, 13, 3]
+2025-03-30 01:52:57,862 - INFO - Robot 1 taking alternative path: [11, 6, 7, 12, 8, 9, 2, 13, 3]
+2025-03-30 01:52:57,862 - WARNING - Could not reserve path for Robot 1
+2025-03-30 01:52:58,027 - INFO - Alternative path found: [11, 6, 7, 12, 8, 9, 2, 13, 3]
+2025-03-30 01:52:58,027 - INFO - Robot 1 cannot take shortest path - attempting alternative route
+2025-03-30 01:52:58,027 - INFO - Alternative path found: [11, 6, 7, 12, 8, 9, 2, 13, 3]
+2025-03-30 01:52:58,028 - INFO - Robot 1 taking alternative path: [11, 6, 7, 12, 8, 9, 2, 13, 3]
+2025-03-30 01:52:58,028 - WARNING - Could not reserve path for Robot 1
+2025-03-30 01:52:58,229 - INFO - Alternative path found: [11, 6, 7, 12, 8, 9, 2, 13, 3]
+2025-03-30 01:52:58,229 - INFO - Robot 1 cannot take shortest path - attempting alternative route
+2025-03-30 01:52:58,229 - INFO - Alternative path found: [11, 6, 7, 12, 8, 9, 2, 13, 3]
+2025-03-30 01:52:58,229 - INFO - Robot 1 taking alternative path: [11, 6, 7, 12, 8, 9, 2, 13, 3]
+2025-03-30 01:52:58,229 - WARNING - Could not reserve path for Robot 1
+2025-03-30 01:52:58,528 - INFO - Alternative path found: [11, 6, 7, 12, 8, 9, 2, 13, 3]
+2025-03-30 01:52:58,529 - INFO - Robot 1 cannot take shortest path - attempting alternative route
+2025-03-30 01:52:58,529 - INFO - Alternative path found: [11, 6, 7, 12, 8, 9, 2, 13, 3]
+2025-03-30 01:52:58,529 - INFO - Robot 1 taking alternative path: [11, 6, 7, 12, 8, 9, 2, 13, 3]
+2025-03-30 01:52:58,529 - WARNING - Could not reserve path for Robot 1
+2025-03-30 01:52:59,048 - INFO - Alternative path found: [11, 6, 7, 12, 8, 9, 2, 13, 3]
+2025-03-30 01:52:59,049 - INFO - Robot 1 cannot take shortest path - attempting alternative route
+2025-03-30 01:52:59,049 - INFO - Alternative path found: [11, 6, 7, 12, 8, 9, 2, 13, 3]
+2025-03-30 01:52:59,049 - INFO - Robot 1 taking alternative path: [11, 6, 7, 12, 8, 9, 2, 13, 3]
+2025-03-30 01:52:59,049 - WARNING - Could not reserve path for Robot 1
+2025-03-30 01:52:59,608 - INFO - Alternative path found: [11, 6, 7, 12, 8, 9, 2, 13, 3]
+2025-03-30 01:52:59,608 - INFO - Robot 1 cannot take shortest path - attempting alternative route
+2025-03-30 01:52:59,609 - INFO - Alternative path found: [11, 6, 7, 12, 8, 9, 2, 13, 3]
+2025-03-30 01:52:59,609 - INFO - Robot 1 taking alternative path: [11, 6, 7, 12, 8, 9, 2, 13, 3]
+2025-03-30 01:52:59,609 - WARNING - Could not reserve path for Robot 1
+2025-03-30 01:53:00,037 - INFO - Alternative path found: [11, 6, 7, 12, 8, 9, 2, 13, 3]
+2025-03-30 01:53:00,038 - INFO - Robot 1 cannot take shortest path - attempting alternative route
+2025-03-30 01:53:00,038 - INFO - Alternative path found: [11, 6, 7, 12, 8, 9, 2, 13, 3]
+2025-03-30 01:53:00,038 - INFO - Robot 1 taking alternative path: [11, 6, 7, 12, 8, 9, 2, 13, 3]
+2025-03-30 01:53:00,038 - WARNING - Could not reserve path for Robot 1
+2025-03-30 01:53:00,880 - INFO - Alternative path found: [11, 6, 7, 12, 8, 9, 2, 13, 3]
+2025-03-30 01:53:00,881 - INFO - Robot 1 cannot take shortest path - attempting alternative route
+2025-03-30 01:53:00,881 - INFO - Alternative path found: [11, 6, 7, 12, 8, 9, 2, 13, 3]
+2025-03-30 01:53:00,881 - INFO - Robot 1 taking alternative path: [11, 6, 7, 12, 8, 9, 2, 13, 3]
+2025-03-30 01:53:00,881 - WARNING - Could not reserve path for Robot 1
+2025-03-30 01:53:01,365 - INFO - Alternative path found: [11, 6, 7, 12, 8, 9, 2, 13, 3]
+2025-03-30 01:53:01,365 - INFO - Robot 1 cannot take shortest path - attempting alternative route
+2025-03-30 01:53:01,366 - INFO - Alternative path found: [11, 6, 7, 12, 8, 9, 2, 13, 3]
+2025-03-30 01:53:01,366 - INFO - Robot 1 taking alternative path: [11, 6, 7, 12, 8, 9, 2, 13, 3]
+2025-03-30 01:53:01,366 - WARNING - Could not reserve path for Robot 1
+2025-03-30 01:55:41,382 - INFO - Starting Fleet Management System
+2025-03-30 01:57:00,190 - INFO - Robot 0 created at vertex 3
+2025-03-30 01:57:01,462 - INFO - Robot 1 created at vertex 7
+2025-03-30 01:57:06,041 - INFO - Alternative path found: [3, 1, 10]
+2025-03-30 01:57:06,042 - INFO - Robot 0 cannot take shortest path - attempting alternative route
+2025-03-30 01:57:06,042 - INFO - Alternative path found: [3, 1, 10]
+2025-03-30 01:57:06,042 - INFO - Robot 0 taking alternative path: [3, 1, 10]
+2025-03-30 01:57:09,591 - INFO - Alternative path found: [7, 12, 8, 9, 2]
+2025-03-30 01:57:09,591 - INFO - Robot 1 cannot take shortest path - attempting alternative route
+2025-03-30 01:57:09,591 - INFO - Alternative path found: [7, 12, 8, 9, 2]
+2025-03-30 01:57:09,591 - INFO - Robot 1 taking alternative path: [7, 12, 8, 9, 2]
+2025-03-30 01:57:16,176 - INFO - Alternative path found: [10, 0, 4, 5, 11]
+2025-03-30 01:57:16,177 - INFO - Robot 0 cannot take shortest path - attempting alternative route
+2025-03-30 01:57:16,177 - INFO - Alternative path found: [10, 0, 4, 5, 11]
+2025-03-30 01:57:16,177 - INFO - Robot 0 taking alternative path: [10, 0, 4, 5, 11]
+2025-03-30 01:57:21,131 - INFO - Alternative path found: [2, 13, 3, 1, 10, 0, 4, 5]
+2025-03-30 01:57:21,132 - INFO - Robot 1 cannot take shortest path - attempting alternative route
+2025-03-30 01:57:21,132 - INFO - Alternative path found: [2, 13, 3, 1, 10, 0, 4, 5]
+2025-03-30 01:57:21,132 - INFO - Robot 1 taking alternative path: [2, 13, 3, 1, 10, 0, 4, 5]
+2025-03-30 01:57:21,132 - WARNING - Could not reserve path for Robot 1
+2025-03-30 01:57:22,995 - INFO - Alternative path found: [2, 13, 3, 1, 10, 0, 4, 5]
+2025-03-30 01:57:22,996 - INFO - Robot 1 cannot take shortest path - attempting alternative route
+2025-03-30 01:57:22,996 - INFO - Alternative path found: [2, 13, 3, 1, 10, 0, 4, 5]
+2025-03-30 01:57:22,996 - INFO - Robot 1 taking alternative path: [2, 13, 3, 1, 10, 0, 4, 5]
+2025-03-30 01:57:22,996 - WARNING - Could not reserve path for Robot 1
+2025-03-30 01:57:23,787 - INFO - Alternative path found: [2, 13, 3, 1, 10, 0, 4, 5]
+2025-03-30 01:57:23,787 - INFO - Robot 1 cannot take shortest path - attempting alternative route
+2025-03-30 01:57:23,787 - INFO - Alternative path found: [2, 13, 3, 1, 10, 0, 4, 5]
+2025-03-30 01:57:23,787 - INFO - Robot 1 taking alternative path: [2, 13, 3, 1, 10, 0, 4, 5]
+2025-03-30 01:57:23,788 - WARNING - Could not reserve path for Robot 1
+2025-03-30 01:57:26,933 - INFO - Alternative path found: [2, 13, 3, 1, 10, 0, 4, 5]
+2025-03-30 01:57:26,933 - INFO - Robot 1 cannot take shortest path - attempting alternative route
+2025-03-30 01:57:26,934 - INFO - Alternative path found: [2, 13, 3, 1, 10, 0, 4, 5]
+2025-03-30 01:57:26,934 - INFO - Robot 1 taking alternative path: [2, 13, 3, 1, 10, 0, 4, 5]
+2025-03-30 01:57:26,934 - WARNING - Could not reserve path for Robot 1
+2025-03-30 02:06:51,564 - INFO - Starting Fleet Management System
+2025-03-30 02:06:54,357 - INFO - Robot 0 created at vertex 3
+2025-03-30 02:06:55,915 - INFO - Robot 1 created at vertex 7
+2025-03-30 02:06:58,720 - INFO - Robot 0 cannot take shortest path - attempting alternative route
+2025-03-30 02:06:58,722 - INFO - Robot 0 taking alternative path: [3, 1, 10, 0]
+2025-03-30 02:07:02,777 - INFO - Robot 1 cannot take shortest path - attempting alternative route
+2025-03-30 02:07:02,777 - INFO - Robot 1 taking alternative path: [7, 6, 11, 5]
+2025-03-30 02:07:08,516 - INFO - Robot 0 cannot take shortest path - attempting alternative route
+2025-03-30 02:07:08,516 - INFO - Robot 0 taking alternative path: [0, 10, 1, 3, 13, 2, 9, 8, 12, 7, 6]
+2025-03-30 02:07:08,516 - WARNING - Could not reserve path for Robot 0
+2025-03-30 02:07:12,260 - INFO - Robot 0 cannot take shortest path - attempting alternative route
+2025-03-30 02:07:12,260 - INFO - Robot 0 taking alternative path: [0, 10, 1, 3, 13, 2, 9, 8, 12, 7, 6]
+2025-03-30 02:07:12,260 - WARNING - Could not reserve path for Robot 0
+2025-03-30 02:17:27,813 - INFO - Starting Fleet Management System
+2025-03-30 02:17:32,824 - INFO - Robot 0 created at vertex 3
+2025-03-30 02:17:34,351 - INFO - Robot 1 created at vertex 7
+2025-03-30 02:21:05,051 - INFO - Starting Fleet Management System
+2025-03-30 02:21:07,634 - INFO - Robot 0 created at vertex 3
+2025-03-30 02:21:08,791 - INFO - Robot 1 created at vertex 7
+2025-03-30 02:21:12,370 - INFO - Robot 0 cannot take shortest path - attempting alternative route
+2025-03-30 02:21:12,371 - INFO - Robot 0 taking alternative path: [3, 1, 10, 0]
+2025-03-30 02:21:16,305 - INFO - Robot 1 cannot take shortest path - attempting alternative route
+2025-03-30 02:21:16,305 - INFO - Robot 1 taking alternative path: [7, 6, 11, 5]
+2025-03-30 02:21:20,566 - INFO - Robot 0 cannot take shortest path - attempting alternative route
+2025-03-30 02:21:20,566 - INFO - Robot 0 taking alternative path: [0, 10, 1, 3, 13, 2, 9, 8, 12, 7, 6]
+2025-03-30 02:21:20,566 - WARNING - Could not reserve path for Robot 0
+2025-03-30 02:21:26,120 - INFO - Robot 0 cannot take shortest path - attempting alternative route
+2025-03-30 02:21:26,121 - INFO - Robot 0 taking alternative path: [0, 10, 1, 3, 13, 2, 9, 8, 12, 7, 6]
+2025-03-30 02:21:26,121 - WARNING - Could not reserve path for Robot 0
+2025-03-30 02:27:22,393 - INFO - Starting Fleet Management System
+2025-03-30 02:27:53,281 - INFO - Starting Fleet Management System
+2025-03-30 02:27:56,431 - INFO - Robot 0 created at vertex 3
+2025-03-30 02:27:57,462 - INFO - Robot 1 created at vertex 7
+2025-03-30 02:28:43,548 - INFO - Robot 2 created at vertex 12
+2025-03-30 02:28:50,340 - INFO - Robot 3 created at vertex 6
+2025-03-30 02:35:45,499 - INFO - Starting Fleet Management System
+2025-03-30 02:35:48,637 - INFO - Robot 0 created at vertex 3
+2025-03-30 02:35:50,907 - INFO - Robot 1 created at vertex 6
+2025-03-30 02:53:48,059 - INFO - Starting Fleet Management System
+2025-03-30 02:55:08,659 - INFO - Starting Fleet Management System
+2025-03-30 03:01:54,492 - INFO - Starting Fleet Management System
+2025-03-30 03:01:57,577 - INFO - Robot 0 created at vertex 3
+2025-03-30 03:02:02,735 - INFO - Starting Fleet Management System
+2025-03-30 03:04:05,660 - INFO - Starting Fleet Management System
+2025-03-30 03:04:09,306 - INFO - Robot 0 created at vertex 3
+2025-03-30 03:04:10,705 - INFO - Robot 1 created at vertex 7
+2025-03-30 12:39:28,412 - INFO - Starting Fleet Management System
+2025-03-30 12:39:31,791 - INFO - Robot 0 created at vertex 3
+2025-03-30 12:39:35,791 - INFO - Robot 1 created at vertex 7
+2025-03-30 13:34:56,992 - INFO - Starting Fleet Management System
+2025-03-30 13:35:00,203 - INFO - Robot 0 created at vertex 3
+2025-03-30 13:35:02,090 - INFO - Robot 1 created at vertex 6
+2025-03-30 13:47:16,240 - INFO - Robot 0 created at vertex 3
+2025-03-30 13:47:16,241 - INFO - Robot spawned at vertex 3
+2025-03-30 13:47:18,872 - INFO - Robot 1 created at vertex 6
+2025-03-30 13:47:18,873 - INFO - Robot spawned at vertex 6
+2025-03-30 13:47:23,382 - INFO - Robot 2 created at vertex 12
+2025-03-30 13:47:23,383 - INFO - Robot spawned at vertex 12
+2025-03-30 13:47:25,035 - INFO - Robot 3 created at vertex 7
+2025-03-30 13:47:25,037 - INFO - Robot spawned at vertex 7
+2025-03-30 13:47:27,359 - INFO - Robot 4 created at vertex 10
+2025-03-30 13:47:27,360 - INFO - Robot spawned at vertex 10
+2025-03-30 13:57:53,329 - INFO - Robot 0 created at vertex 3
+2025-03-30 13:57:53,330 - INFO - Robot spawned at vertex 3
+2025-03-30 13:57:55,403 - INFO - Robot 1 created at vertex 12
+2025-03-30 13:57:55,404 - INFO - Robot spawned at vertex 12
+2025-03-30 13:57:59,880 - INFO - Robot 2 created at vertex 10
+2025-03-30 13:57:59,881 - INFO - Robot spawned at vertex 10
+2025-03-30 15:17:15,542 - INFO - Robot 0 created at vertex 3
+2025-03-30 15:17:15,543 - INFO - Robot spawned at vertex 3
+2025-03-30 15:17:17,404 - INFO - Robot 1 created at vertex 12
+2025-03-30 15:17:17,404 - INFO - Robot spawned at vertex 12
+2025-03-30 15:17:21,448 - INFO - Robot 2 created at vertex 10
+2025-03-30 15:17:21,449 - INFO - Robot spawned at vertex 10
+2025-03-30 15:17:24,131 - INFO - Robot 3 created at vertex 1
+2025-03-30 15:17:24,133 - INFO - Robot spawned at vertex 1
+2025-03-30 15:17:25,493 - INFO - Robot 4 created at vertex 7
+2025-03-30 15:17:25,495 - INFO - Robot spawned at vertex 7
+2025-03-30 15:17:26,779 - INFO - Robot 5 created at vertex 6
+2025-03-30 15:17:26,782 - INFO - Robot spawned at vertex 6
+2025-03-30 15:17:28,495 - INFO - Robot 6 created at vertex 11
+2025-03-30 15:17:28,497 - INFO - Robot spawned at vertex 11
+2025-03-30 15:24:53,510 - INFO - Robot 0 created at vertex 3
+2025-03-30 15:24:53,511 - INFO - Robot spawned at vertex 3
+2025-03-30 15:24:57,247 - INFO - Robot 1 created at vertex 6
+2025-03-30 15:24:57,247 - INFO - Robot spawned at vertex 6
+2025-03-30 15:25:11,447 - INFO - Robot 0 created at vertex 1
+2025-03-30 15:25:11,448 - INFO - Robot spawned at vertex 1
+2025-03-30 15:25:12,953 - INFO - Robot 1 created at vertex 12
+2025-03-30 15:25:12,955 - INFO - Robot spawned at vertex 12
+2025-03-30 15:25:35,520 - INFO - Robot 0 created at vertex 1
+2025-03-30 15:25:35,521 - INFO - Robot spawned at vertex 1
+2025-03-30 15:25:36,709 - INFO - Robot 1 created at vertex 7
+2025-03-30 15:25:36,746 - INFO - Robot spawned at vertex 7
+2025-03-30 15:33:29,665 - INFO - Robot 0 created at vertex 3
+2025-03-30 15:33:29,667 - INFO - Robot spawned at vertex 3
+2025-03-30 15:33:31,394 - INFO - Robot 1 created at vertex 7
+2025-03-30 15:33:31,395 - INFO - Robot spawned at vertex 7
+2025-03-30 15:33:36,691 - INFO - Robot 2 created at vertex 1
+2025-03-30 15:33:36,692 - INFO - Robot spawned at vertex 1
+2025-03-30 15:33:38,882 - INFO - Robot 3 created at vertex 10
+2025-03-30 15:33:38,884 - INFO - Robot spawned at vertex 10
+2025-03-30 15:33:40,302 - INFO - Robot 4 created at vertex 6
+2025-03-30 15:33:40,303 - INFO - Robot spawned at vertex 6
+2025-03-30 16:05:24,733 - INFO - Starting Fleet Management System
+2025-03-30 16:05:32,340 - INFO - Robot 0 created at vertex 3
+2025-03-30 16:05:34,075 - INFO - Robot 1 created at vertex 12
+2025-03-30 16:16:33,717 - INFO - Starting Fleet Management System
+2025-03-30 16:16:35,217 - INFO - Robot 0 created at vertex 3
+2025-03-30 16:16:38,806 - INFO - Robot 1 created at vertex 11
+2025-03-30 16:18:37,533 - INFO - Starting Fleet Management System
+2025-03-30 16:18:40,794 - INFO - Robot 0 created at vertex 1
+2025-03-30 16:18:42,701 - INFO - Robot 1 created at vertex 7
+2025-03-30 16:49:02,434 - INFO - Switched to TASK MODE
+2025-03-30 16:49:04,703 - INFO - Switched to SPAWN MODE
+2025-03-30 16:49:06,274 - INFO - Robot 0 created at vertex 3
+2025-03-30 16:49:06,275 - INFO - Robot spawned at vertex 3
+2025-03-30 16:49:06,276 - INFO - Robot spawned at vertex 3
+2025-03-30 16:49:54,577 - INFO - Switched to TASK MODE
+2025-03-30 16:49:55,133 - INFO - Switched to SPAWN MODE
+2025-03-30 16:49:56,630 - INFO - Robot 0 created at vertex 3
+2025-03-30 16:49:56,632 - INFO - Robot spawned at vertex 3
+2025-03-30 16:49:56,633 - INFO - Robot spawned at vertex 3
+2025-03-30 16:49:58,197 - INFO - Robot 1 created at vertex 12
+2025-03-30 16:49:58,201 - INFO - Robot spawned at vertex 12
+2025-03-30 16:49:58,202 - INFO - Robot spawned at vertex 12
+2025-03-30 16:49:59,546 - INFO - Switched to TASK MODE
+2025-03-30 16:50:02,888 - INFO - Selected Robot 0 - Click destination
+2025-03-30 16:50:04,303 - INFO - Robot 0 assigned path to vertex 2
+2025-03-30 16:50:04,304 - INFO - Moving R0 to vertex 2
+2025-03-30 16:50:04,305 - INFO - Task assigned: Robot 0 to vertex 2
+2025-03-30 16:54:36,620 - INFO - Robot 0 created at vertex 3
+2025-03-30 16:54:36,620 - INFO - Robot spawned at vertex 3
+2025-03-30 16:54:36,620 - INFO - Robot spawned at vertex 3
+2025-03-30 16:54:36,620 - INFO - Robot spawned at vertex 3
+2025-03-30 16:54:36,620 - INFO - Robot spawned at vertex 3
+2025-03-30 16:54:38,737 - INFO - Robot 1 created at vertex 11
+2025-03-30 16:54:38,738 - INFO - Robot spawned at vertex 11
+2025-03-30 16:54:38,738 - INFO - Robot spawned at vertex 11
+2025-03-30 16:54:38,738 - INFO - Robot spawned at vertex 11
+2025-03-30 16:54:38,738 - INFO - Robot spawned at vertex 11
+2025-03-30 16:54:40,126 - INFO - Switched to TASK MODE
+2025-03-30 16:54:40,126 - INFO - Switched to TASK MODE
+2025-03-30 16:54:43,984 - INFO - Selected Robot 0 - Click destination
+2025-03-30 16:54:43,984 - INFO - Selected Robot 0 - Click destination
+2025-03-30 16:54:46,218 - INFO - Robot 0 assigned path to vertex 6
+2025-03-30 16:54:46,218 - INFO - Robot 0 assigned path to vertex 6
+2025-03-30 16:54:46,218 - INFO - Moving R0 to vertex 6
+2025-03-30 16:54:46,218 - INFO - Moving R0 to vertex 6
+2025-03-30 16:54:46,218 - INFO - Task assigned: Robot 0 to vertex 6
+2025-03-30 16:54:46,218 - INFO - Task assigned: Robot 0 to vertex 6
+2025-03-30 17:03:53,657 - INFO - Switched to TASK MODE
+2025-03-30 17:03:53 - INFO - Switched to TASK MODE
+2025-03-30 17:07:29 - INFO - Robot 0 created at vertex 1
+2025-03-30 17:07:29,128 - INFO - Robot spawned at vertex 1
+2025-03-30 17:07:29 - INFO - Robot spawned at vertex 1
+2025-03-30 17:07:29,129 - INFO - Robot spawned at vertex 1
+2025-03-30 17:07:29 - INFO - Robot spawned at vertex 1
+2025-03-30 17:07:31 - INFO - Robot 1 created at vertex 7
+2025-03-30 17:07:31,680 - INFO - Robot spawned at vertex 7
+2025-03-30 17:07:31 - INFO - Robot spawned at vertex 7
+2025-03-30 17:07:31,680 - INFO - Robot spawned at vertex 7
+2025-03-30 17:07:31 - INFO - Robot spawned at vertex 7
+2025-03-30 17:07:33,697 - INFO - Switched to TASK MODE
+2025-03-30 17:07:33 - INFO - Switched to TASK MODE
+2025-03-30 17:07:35,510 - INFO - Selected Robot 0 - Click destination
+2025-03-30 17:07:35 - INFO - Selected Robot 0 - Click destination
+2025-03-30 17:07:37,826 - INFO - Moving R0 to vertex 2
+2025-03-30 17:07:37 - INFO - Moving R0 to vertex 2
+2025-03-30 17:07:37,826 - INFO - Task assigned: Robot 0 to vertex 2
+2025-03-30 17:07:37 - INFO - Task assigned: Robot 0 to vertex 2
+2025-03-30 17:07:40,021 - INFO - Switched to SPAWN MODE
+2025-03-30 17:07:40 - INFO - Switched to SPAWN MODE
+2025-03-30 17:07:40,561 - INFO - Switched to TASK MODE
+2025-03-30 17:07:40 - INFO - Switched to TASK MODE
+2025-03-30 17:07:43,733 - INFO - Selected Robot 1 - Click destination
+2025-03-30 17:07:43 - INFO - Selected Robot 1 - Click destination
+2025-03-30 17:07:44,984 - INFO - Cannot move to occupied vertex
+2025-03-30 17:07:44 - INFO - Cannot move to occupied vertex
+2025-03-30 17:07:48,713 - INFO - Selected Robot 1 - Click destination
+2025-03-30 17:07:48 - INFO - Selected Robot 1 - Click destination
+2025-03-30 17:07:49,925 - INFO - Moving R1 to vertex 3
+2025-03-30 17:07:49 - INFO - Moving R1 to vertex 3
+2025-03-30 17:07:49,925 - INFO - Task assigned: Robot 1 to vertex 3
+2025-03-30 17:07:49 - INFO - Task assigned: Robot 1 to vertex 3
+2025-03-30 17:12:21 - INFO - Robot 0 created at vertex 1
+2025-03-30 17:12:21,485 - INFO - Robot spawned at vertex 1
+2025-03-30 17:12:21 - INFO - Robot spawned at vertex 1
+2025-03-30 17:12:21,485 - INFO - Robot spawned at vertex 1
+2025-03-30 17:12:21 - INFO - Robot spawned at vertex 1
+2025-03-30 17:12:23 - INFO - Robot 1 created at vertex 12
+2025-03-30 17:12:23,110 - INFO - Robot spawned at vertex 12
+2025-03-30 17:12:23 - INFO - Robot spawned at vertex 12
+2025-03-30 17:12:23,110 - INFO - Robot spawned at vertex 12
+2025-03-30 17:12:23 - INFO - Robot spawned at vertex 12
+2025-03-30 17:12:25,142 - INFO - Vertex occupied
+2025-03-30 17:12:25 - INFO - Vertex occupied
+2025-03-30 17:12:26,110 - INFO - Vertex occupied
+2025-03-30 17:12:26 - INFO - Vertex occupied
+2025-03-30 17:12:26,773 - INFO - Vertex occupied
+2025-03-30 17:12:26 - INFO - Vertex occupied
+2025-03-30 17:12:26,985 - INFO - Vertex occupied
+2025-03-30 17:12:26 - INFO - Vertex occupied
+2025-03-30 17:12:27,152 - INFO - Vertex occupied
+2025-03-30 17:12:27 - INFO - Vertex occupied
+2025-03-30 17:12:27,300 - INFO - Vertex occupied
+2025-03-30 17:12:27 - INFO - Vertex occupied
+2025-03-30 17:12:27,477 - INFO - Vertex occupied
+2025-03-30 17:12:27 - INFO - Vertex occupied
+2025-03-30 17:12:27,625 - INFO - Vertex occupied
+2025-03-30 17:12:27 - INFO - Vertex occupied
+2025-03-30 17:12:27,748 - INFO - Vertex occupied
+2025-03-30 17:12:27 - INFO - Vertex occupied
+2025-03-30 17:12:27,924 - INFO - Vertex occupied
+2025-03-30 17:12:27 - INFO - Vertex occupied
+2025-03-30 17:32:51,272 - INFO - Starting Fleet Management System
+2025-03-30 17:32:54,848 - INFO - Robot 0 created at vertex 3
+2025-03-30 17:32:56,011 - INFO - Robot 1 created at vertex 7
+2025-03-30 17:45:24,040 - INFO - Starting Fleet Management System
+2025-03-30 17:46:25,548 - INFO - Starting Fleet Management System
+2025-03-30 17:47:40,561 - INFO - Starting Fleet Management System
+2025-03-30 18:26:31,951 - INFO - Starting Fleet Management System
+2025-03-30 18:26:34,127 - INFO - Robot 0 created at vertex 3
+2025-03-30 18:26:37,172 - INFO - Robot 1 created at vertex 6
+2025-03-30 18:28:07,920 - INFO - Starting Fleet Management System
+2025-03-30 18:28:09,740 - INFO - Robot 0 created at vertex 3
+2025-03-30 18:28:11,564 - INFO - Robot 1 created at vertex 11
+2025-03-30 18:28:39,324 - INFO - Starting Fleet Management System
+2025-03-30 18:28:40,829 - INFO - Robot 0 created at vertex 3
+2025-03-30 18:28:44,990 - INFO - Robot 1 created at vertex 10
+2025-03-30 18:31:24,327 - INFO - Starting Fleet Management System
+2025-03-30 18:32:23,513 - INFO - Starting Fleet Management System
+2025-03-30 18:33:34,620 - INFO - Starting Fleet Management System
+2025-03-30 18:34:29,072 - INFO - Starting Fleet Management System
+2025-03-30 18:35:58,882 - INFO - Starting Fleet Management System
+2025-03-30 18:37:43,135 - INFO - Starting Fleet Management System
+2025-03-30 19:07:35,530 - INFO - Starting Fleet Management System
+2025-03-30 19:07:37,471 - INFO - Robot 0 created at vertex 1
+2025-03-30 19:07:39,170 - INFO - Robot 1 created at vertex 12
+2025-03-30 19:14:56,049 - INFO - Starting Fleet Management System
+2025-03-30 19:14:57,951 - INFO - Robot 0 created at vertex 3
+2025-03-30 19:14:59,558 - INFO - Robot 1 created at vertex 6
+2025-03-30 19:15:26,600 - INFO - Starting Fleet Management System
+2025-03-30 19:15:28,114 - INFO - Robot 0 created at vertex 1
+2025-03-30 19:15:29,370 - INFO - Robot 1 created at vertex 6
+2025-03-30 19:48:10,525 - INFO - Starting Fleet Management System
+2025-03-30 19:48:12,116 - INFO - Robot 0 created at vertex 3
+2025-03-30 19:48:13,673 - INFO - Robot 1 created at vertex 6
+2025-03-30 19:50:08,903 - INFO - Starting Fleet Management System
+2025-03-30 19:50:10,335 - INFO - Robot 0 created at vertex 3
+2025-03-30 19:50:12,241 - INFO - Robot 1 created at vertex 5

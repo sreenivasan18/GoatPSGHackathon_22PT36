@@ -1,0 +1,189 @@
+2025-03-29 19:54:35,596 - Spawned Robot 0 at vertex 3
+2025-03-29 19:54:37,872 - Spawned Robot 1 at vertex 1
+2025-03-29 19:54:40,448 - Spawned Robot 2 at vertex 7
+2025-03-29 19:54:46,119 - Selected Robot 0
+2025-03-29 19:54:48,193 - Assigned task to Robot 0: Navigate to vertex 5
+2025-03-29 19:55:49,632 - Spawned Robot 0 at vertex 3
+2025-03-29 19:55:51,707 - Spawned Robot 1 at vertex 7
+2025-03-29 19:55:55,143 - Selected Robot 0
+2025-03-29 19:55:57,782 - Assigned task to Robot 0: Navigate to vertex 2
+2025-03-29 19:56:19,033 - Assigned task to Robot 0: Navigate to vertex 3
+2025-03-29 19:56:21,309 - Assigned task to Robot 0: Navigate to vertex 2
+2025-03-29 19:56:41,529 - Robot 0 completed its task
+2025-03-29 19:56:41,579 - Robot 0 completed its task
+2025-03-29 19:56:41,629 - Robot 0 completed its task
+2025-03-29 19:56:41,679 - Robot 0 completed its task
+2025-03-29 19:56:41,730 - Robot 0 completed its task
+2025-03-29 19:56:41,780 - Robot 0 completed its task
+2025-03-29 19:56:41,830 - Robot 0 completed its task
+2025-03-29 19:56:41,880 - Robot 0 completed its task
+2025-03-29 19:56:41,931 - Robot 0 completed its task
+2025-03-29 19:56:41,981 - Robot 0 completed its task
+2025-03-29 19:56:42,032 - Robot 0 completed its task
+2025-03-29 19:56:42,082 - Robot 0 completed its task
+2025-03-29 19:56:42,134 - Robot 0 completed its task
+2025-03-29 19:56:42,185 - Robot 0 completed its task
+2025-03-29 19:56:42,235 - Robot 0 completed its task
+2025-03-29 19:56:42,285 - Robot 0 completed its task
+2025-03-29 19:56:42,336 - Robot 0 completed its task
+2025-03-29 19:56:42,387 - Robot 0 completed its task
+2025-03-29 19:56:42,439 - Robot 0 completed its task
+2025-03-29 19:56:42,488 - Robot 0 completed its task
+2025-03-29 19:56:42,539 - Robot 0 completed its task
+2025-03-29 19:56:42,590 - Robot 0 completed its task
+2025-03-29 19:56:42,641 - Spawned Robot 2 at vertex 1
+2025-03-29 19:56:42,641 - Robot 0 completed its task
+2025-03-29 19:56:42,691 - Robot 0 completed its task
+2025-03-29 19:56:42,742 - Robot 0 completed its task
+2025-03-29 19:56:42,792 - Robot 0 completed its task
+2025-03-29 19:56:42,842 - Robot 0 completed its task
+2025-03-29 19:56:42,893 - Robot 0 completed its task
+2025-03-29 19:56:42,943 - Robot 0 completed its task
+2025-03-29 19:56:42,993 - Robot 0 completed its task
+2025-03-29 19:56:43,044 - Robot 0 completed its task
+2025-03-29 19:56:43,094 - Robot 0 completed its task
+2025-03-29 19:56:43,145 - Robot 0 completed its task
+2025-03-29 19:56:43,196 - Robot 0 completed its task
+2025-03-29 19:56:43,246 - Robot 0 completed its task
+2025-03-29 19:56:43,297 - Robot 0 completed its task
+2025-03-29 19:56:43,347 - Robot 0 completed its task
+2025-03-29 19:56:43,398 - Robot 0 completed its task
+2025-03-29 19:56:43,448 - Robot 0 completed its task
+2025-03-29 19:56:43,500 - Robot 0 completed its task
+2025-03-29 19:56:43,550 - Robot 0 completed its task
+2025-03-29 19:56:43,601 - Robot 0 completed its task
+2025-03-29 19:56:43,650 - Robot 0 completed its task
+2025-03-29 19:56:43,702 - Robot 0 completed its task
+2025-03-29 19:56:43,754 - Robot 0 completed its task
+2025-03-29 19:56:43,803 - Robot 0 completed its task
+2025-03-29 19:56:43,854 - Robot 0 completed its task
+2025-03-29 19:56:43,904 - Robot 0 completed its task
+2025-03-29 19:56:43,956 - Robot 0 completed its task
+2025-03-29 19:56:44,006 - Robot 0 completed its task
+2025-03-29 19:56:44,056 - Robot 0 completed its task
+2025-03-29 19:56:44,106 - Robot 0 completed its task
+2025-03-29 19:56:44,157 - Robot 0 completed its task
+2025-03-29 19:56:44,208 - Robot 0 completed its task
+2025-03-29 19:56:44,258 - Robot 0 completed its task
+2025-03-29 19:56:44,310 - Spawned Robot 3 at vertex 5
+2025-03-29 19:56:44,310 - Robot 0 completed its task
+2025-03-29 19:56:44,361 - Robot 0 completed its task
+2025-03-29 19:56:44,411 - Robot 0 completed its task
+2025-03-29 19:56:44,463 - Robot 0 completed its task
+2025-03-29 19:56:44,513 - Robot 0 completed its task
+2025-03-29 19:56:44,564 - Robot 0 completed its task
+2025-03-29 19:56:44,614 - Robot 0 completed its task
+2025-03-29 19:56:44,664 - Robot 0 completed its task
+2025-03-29 19:56:44,715 - Robot 0 completed its task
+2025-03-29 19:56:44,766 - Robot 0 completed its task
+2025-03-29 19:56:44,817 - Robot 0 completed its task
+2025-03-29 19:56:44,868 - Robot 0 completed its task
+2025-03-29 19:56:44,918 - Robot 0 completed its task
+2025-03-29 19:56:44,969 - Robot 0 completed its task
+2025-03-29 19:56:45,019 - Robot 0 completed its task
+2025-03-29 19:56:45,071 - Robot 0 completed its task
+2025-03-29 19:56:45,121 - Robot 0 completed its task
+2025-03-29 19:56:45,172 - Robot 0 completed its task
+2025-03-29 19:56:45,223 - Robot 0 completed its task
+2025-03-29 19:56:45,274 - Robot 0 completed its task
+2025-03-29 19:56:45,324 - Robot 0 completed its task
+2025-03-29 19:56:45,374 - Robot 0 completed its task
+2025-03-29 19:56:45,424 - Robot 0 completed its task
+2025-03-29 19:56:45,474 - Robot 0 completed its task
+2025-03-29 19:56:45,527 - Robot 0 completed its task
+2025-03-29 19:56:45,578 - Robot 0 completed its task
+2025-03-29 19:56:45,628 - Robot 0 completed its task
+2025-03-29 19:56:45,679 - Robot 0 completed its task
+2025-03-29 19:56:45,728 - Robot 0 completed its task
+2025-03-29 19:56:45,778 - Robot 0 completed its task
+2025-03-29 19:56:45,828 - Robot 0 completed its task
+2025-03-29 19:56:45,879 - Robot 0 completed its task
+2025-03-29 19:56:45,929 - Robot 0 completed its task
+2025-03-29 19:56:45,980 - Robot 0 completed its task
+2025-03-29 19:56:46,030 - Robot 0 completed its task
+2025-03-29 19:56:46,081 - Robot 0 completed its task
+2025-03-29 19:56:46,132 - Robot 0 completed its task
+2025-03-29 19:56:46,182 - Robot 0 completed its task
+2025-03-29 19:56:46,232 - Robot 0 completed its task
+2025-03-29 19:56:46,283 - Robot 0 completed its task
+2025-03-29 19:56:46,333 - Robot 0 completed its task
+2025-03-29 19:56:46,385 - Robot 0 completed its task
+2025-03-29 19:56:46,435 - Robot 0 completed its task
+2025-03-29 19:56:46,485 - Robot 0 completed its task
+2025-03-29 19:56:46,535 - Robot 0 completed its task
+2025-03-29 19:56:46,586 - Robot 0 completed its task
+2025-03-29 19:56:46,637 - Robot 0 completed its task
+2025-03-29 19:56:46,687 - Robot 0 completed its task
+2025-03-29 19:56:46,738 - Robot 0 completed its task
+2025-03-29 19:56:46,789 - Robot 0 completed its task
+2025-03-29 19:56:46,839 - Robot 0 completed its task
+2025-03-29 19:56:46,889 - Robot 0 completed its task
+2025-03-29 19:56:46,939 - Robot 0 completed its task
+2025-03-29 19:56:46,989 - Robot 0 completed its task
+2025-03-29 19:56:47,040 - Robot 0 completed its task
+2025-03-29 19:56:47,091 - Robot 0 completed its task
+2025-03-29 19:56:47,142 - Robot 0 completed its task
+2025-03-29 19:56:47,192 - Robot 0 completed its task
+2025-03-29 19:56:47,243 - Robot 0 completed its task
+2025-03-29 19:56:47,294 - Robot 0 completed its task
+2025-03-29 19:56:47,346 - Robot 0 completed its task
+2025-03-29 19:56:47,397 - Robot 0 completed its task
+2025-03-29 19:56:47,447 - Robot 0 completed its task
+2025-03-29 19:56:47,499 - Robot 0 completed its task
+2025-03-29 19:56:47,549 - Robot 0 completed its task
+2025-03-29 19:56:47,600 - Robot 0 completed its task
+2025-03-29 19:56:47,651 - Robot 0 completed its task
+2025-03-29 19:58:43,835 - Spawned Robot 0 at vertex 3
+2025-03-29 19:58:45,547 - Spawned Robot 1 at vertex 6
+2025-03-29 19:58:47,931 - Spawned Robot 2 at vertex 1
+2025-03-29 19:58:52,235 - Selected Robot 0
+2025-03-29 19:58:54,710 - Assigned task to Robot 0: Navigate to vertex 5
+2025-03-29 19:58:56,229 - Assigned task to Robot 0: Navigate to vertex 1
+2025-03-29 19:59:17,643 - Spawned Robot 0 at vertex 3
+2025-03-29 19:59:19,314 - Spawned Robot 1 at vertex 1
+2025-03-29 19:59:24,322 - Spawned Robot 2 at vertex 5
+2025-03-29 19:59:28,373 - Selected Robot 0
+2025-03-29 19:59:30,249 - Assigned task to Robot 0: Navigate to vertex 5
+2025-03-29 19:59:33,431 - Assigned task to Robot 0: Navigate to vertex 5
+2025-03-29 19:59:37,931 - Assigned task to Robot 0: Navigate to vertex 5
+2025-03-29 19:59:38,641 - Assigned task to Robot 0: Navigate to vertex 5
+2025-03-29 19:59:50,538 - No valid path found for Robot 0 to vertex 5
+2025-03-29 19:59:51,448 - No valid path found for Robot 0 to vertex 5
+2025-03-29 19:59:54,175 - No valid path found for Robot 0 to vertex 2
+2025-03-29 19:59:54,832 - No valid path found for Robot 0 to vertex 2
+2025-03-29 20:00:00,654 - Assigned task to Robot 0: Navigate to vertex 2
+2025-03-29 20:18:56,682 - Spawned Robot 0 at vertex 13
+2025-03-29 20:18:58,408 - Spawned Robot 1 at vertex 7
+2025-03-29 20:19:00,529 - Spawned Robot 2 at vertex 13
+2025-03-29 20:19:02,049 - Spawned Robot 3 at vertex 13
+2025-03-29 20:19:05,938 - Selected Robot 0
+2025-03-29 20:19:06,999 - Assigned task to Robot 0: Navigate to vertex 11
+2025-03-29 20:33:00,349 - Spawned Robot 0 at vertex 1
+2025-03-29 20:34:37,409 - Spawned Robot 0 at vertex 1
+2025-03-29 20:34:39,393 - Spawned Robot 1 at vertex 12
+2025-03-29 20:34:47,888 - No robot selected for task assignment
+2025-03-29 20:34:58,926 - No robot selected for task assignment
+2025-03-29 20:35:02,974 - No robot selected for task assignment
+2025-03-29 20:35:06,859 - No robot selected for task assignment
+2025-03-29 21:31:16,446 - Spawned Robot 0 at vertex 10
+2025-03-29 21:31:18,284 - Spawned Robot 1 at vertex 12
+2025-03-29 21:31:28,823 - No robot selected for task assignment
+2025-03-29 21:31:35,105 - No robot selected for task assignment
+2025-03-29 21:31:37,790 - No robot selected for task assignment
+2025-03-29 21:31:58,738 - Spawned Robot 0 at vertex 13
+2025-03-29 21:32:00,660 - Spawned Robot 1 at vertex 7
+2025-03-29 21:32:10,278 - No robot selected for task assignment
+2025-03-29 21:32:16,691 - No robot selected for task assignment
+2025-03-29 21:32:22,456 - No robot selected for task assignment
+2025-03-29 21:32:29,989 - Spawned Robot 2 at vertex 3
+2025-03-29 21:32:31,958 - Spawned Robot 3 at vertex 1
+2025-03-29 21:32:34,467 - Spawned Robot 4 at vertex 10
+2025-03-29 22:21:13,706 - Spawned Robot 0 at vertex 13
+2025-03-29 22:21:16,063 - Spawned Robot 1 at vertex 6
+2025-03-29 22:21:25,961 - No robot selected for task assignment
+2025-03-29 22:21:28,206 - No robot selected for task assignment
+2025-03-29 22:21:33,361 - No robot selected for task assignment
+2025-03-29 22:21:42,432 - Spawned Robot 2 at vertex 13
+2025-03-29 22:21:46,569 - Spawned Robot 3 at vertex 7
+2025-03-29 22:21:49,872 - Spawned Robot 4 at vertex 13
+2025-03-29 22:22:05,411 - No robot selected for task assignment

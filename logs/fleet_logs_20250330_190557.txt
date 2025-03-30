@@ -1,0 +1,2 @@
+2025-03-30 19:06:02 - INFO - Robot 0 created at vertex 3
+2025-03-30 19:06:02 - INFO - Spawned Robot at vertex 3
