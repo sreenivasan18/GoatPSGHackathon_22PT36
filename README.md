@@ -13,7 +13,6 @@ A **Python-based Multi-Robot Navigation & Collision Avoidance System**
 - [🎮 GUI Interactions](#-gui-interactions)
 - [❌ What’s Missing?](#-whats-missing)
 - [🚀 Future Enhancements](#-future-enhancements)
-- [📸 Screenshots](#-screenshots)
 - [🎯 Conclusion](#-conclusion)
 
 ---
@@ -114,11 +113,6 @@ python src/main.py
 🔴 **No Dynamic Rerouting**: Robots don’t adjust paths mid-movement if blocked.
 
 🔴 **Limited Deadlock Handling**: Deadlocks are detected but not resolved visually.
-
-🔴 **Battery Alerts**: No pop-ups for critical battery levels.
-
-🔴 **Occupancy Highlights**: Blocked lanes/vertices aren’t color-coded.
-
 
 ---
 
