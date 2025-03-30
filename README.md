@@ -112,9 +112,13 @@ python src/main.py
 ## ❌ What’s Missing?
 
 🔴 **No Dynamic Rerouting**: Robots don’t adjust paths mid-movement if blocked.
+
 🔴 **Limited Deadlock Handling**: Deadlocks are detected but not resolved visually.
+
 🔴 **Battery Alerts**: No pop-ups for critical battery levels.
+
 🔴 **Occupancy Highlights**: Blocked lanes/vertices aren’t color-coded.
+
 
 ---
 
