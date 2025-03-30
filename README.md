@@ -1,170 +1,159 @@
-🚀 Fleet Management System with Traffic Negotiation
+# 🚀 Fleet Management System with Traffic Negotiation  
+*A Python-based Multi-Robot Navigation & Collision Avoidance System*  
 
-A Python-based Multi-Robot Navigation & Collision Avoidance System
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3.8+-blue?logo=python" alt="Python">
+  <img src="https://img.shields.io/badge/Pygame-2.5.0-green?logo=pygame" alt="Pygame">
+  <img src="https://img.shields.io/badge/NetworkX-3.2.1-red?logo=networkx" alt="NetworkX">
+  <img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Status">
+</div>
 
-Demo
-Logs
-Traffic
-📌 Table of Contents
+## 📌 Table of Contents  
+- [✨ Features](#-features)  
+- [🔧 How It Works](#-how-it-works)  
+- [⚙️ Tech Stack](#-tech-stack)  
+- [🛠 Setup](#-setup)  
+- [🎮 GUI Interactions](#-gui-interactions)  
+- [❌ What's Missing?](#-whats-missing)  
+- [🚀 Future Enhancements](#-future-enhancements)  
+- [📸 Screenshots](#-screenshots)  
+- [🎯 Conclusion](#-conclusion)  
 
-    Features
+## ✨ Features  
 
-    How It Works
+<div align="center">
+  <table>
+    <tr>
+      <td><strong>✅ Interactive Pygame GUI</strong></td>
+      <td>Visualize robots, vertices, lanes, and charging stations with click-to-spawn functionality</td>
+    </tr>
+    <tr>
+      <td><strong>✅ Real-Time Management</strong></td>
+      <td>Track unique robots with color-coded IDs and battery status indicators</td>
+    </tr>
+    <tr>
+      <td><strong>✅ Smart Navigation</strong></td>
+      <td>A* pathfinding with collision avoidance and alternative routing</td>
+    </tr>
+    <tr>
+      <td><strong>✅ Detailed Logging</strong></td>
+      <td>Comprehensive activity tracking in fleet_logs.txt</td>
+    </tr>
+  </table>
+</div>
 
-    Tech Stack
+## 🔧 How It Works  
 
-    Setup
+### System Architecture
+```mermaid
+graph TD
+    A[GUI] --> B[Fleet Manager]
+    B --> C[Robot Controller]
+    B --> D[Traffic Manager]
+    C --> E[Individual Robots]
+    D --> F[Navigation Graph]
 
-    GUI Interactions
+Core Components
 
-    What’s Missing?
+    Navigation Graph (nav_graph.py)
 
-    Future Enhancements (ROS/Pybotics/Robot Framework)
+        Parses JSON environment definition
 
-    Screenshots
+        Implements A* algorithm with Manhattan heuristic
 
-✨ Features
+        Identifies charging stations
 
-✅ Interactive Pygame GUI
+    Robot Behavior (robot.py)
+    python
+    Copy
 
-    Visualize robots, vertices, lanes, and charging stations.
+    class Robot:
+        def __init__(self):
+            self.id = uuid4()
+            self.battery = 100.0
+            self.state = "idle"  # States: idle/moving/charging/waiting
 
-    Click to spawn robots or assign tasks.
+    Traffic Management (traffic_manager.py)
 
-✅ Real-Time Robot Management
+        Real-time occupancy tracking
 
-    Unique robot colors/IDs.
+        Deadlock detection system
 
-    Battery levels, status (moving/waiting/charging).
+    Fleet Manager (fleet_manager.py)
 
-✅ Traffic Negotiation
+        Central coordination hub
 
-    A* pathfinding with collision checks (TrafficManager).
-
-    Alternative path calculation if shortest path is blocked.
-
-✅ Logging
-
-    Every action logged to fleet_logs.txt (spawning, task completion).
-
-🔧 How It Works
-1. Navigation Graph (nav_graph.py)
-
-    Parses nav_graph.json into a weighted graph (vertices + lanes).
-
-    Uses A* for shortest-path calculations with Manhattan heuristic.
-
-    Charging stations are prioritized for low-battery robots.
-
-2. Robot Behavior (robot.py)
-
-    Each robot has:
-
-        Unique ID, color, battery (drains while moving).
-
-        State machine (idle, moving, charging, waiting).
-
-    Smooth movement interpolation between vertices.
-
-3. Traffic Manager (traffic_manager.py)
-
-    Tracks vertex/lane occupancy.
-
-    Detects path conflicts and deadlocks (partial implementation).
-
-4. Fleet Manager (fleet_manager.py)
-
-    Spawns robots, assigns tasks, manages queues.
-
-    Optimizes task assignment based on battery/distance.
-
-5. GUI (fleet_gui.py)
-
-    Left-Click: Spawn robot (in Spawn Mode).
-
-    Right-Click: Assign task (in Task Mode).
-
-    Side panel shows robot status, battery, and system metrics.
+        Task optimization algorithms
 
 ⚙️ Tech Stack
-Package	Use Case
-Pygame	Interactive GUI visualization.
-NetworkX	Graph traversal (A* algorithm).
-Logging	Detailed activity logs.
-JSON	Parse navigation graph.
+<div align="center"> <table> <tr> <th>Component</th> <th>Technology</th> <th>Version</th> </tr> <tr> <td>GUI Framework</td> <td>Pygame</td> <td>2.5.0</td> </tr> <tr> <td>Pathfinding</td> <td>NetworkX</td> <td>3.2.1</td> </tr> <tr> <td>Math Operations</td> <td>NumPy</td> <td>1.26.0</td> </tr> </table> </div>
 🛠 Setup
-1. Install Dependencies
+Installation
 bash
 Copy
 
-# requirements.txt
-pygame==2.5.0
-networkx==3.2.1
-numpy==1.26.0
+# Clone repository
+git clone https://github.com/yourusername/fleet-management-system.git
+cd fleet-management-system
 
-Run:
-bash
-Copy
-
+# Install dependencies
 pip install -r requirements.txt
 
-2. Run the System
+Execution
 bash
 Copy
 
 python src/main.py
 
 🎮 GUI Interactions
-Action	Effect
-Spawn Mode	Click vertices to spawn robots.
-Task Mode	Click robot → destination to assign task.
-Clear All	Reset all robots and tasks.
-❌ What’s Missing?
-
-🔴 No Dynamic Rerouting: Robots don’t adjust paths mid-movement if blocked.
-🔴 Limited Deadlock Handling: Deadlocks are detected but not resolved visually.
-🔴 Battery Alerts: No pop-ups for critical battery levels.
-🔴 Occupancy Highlights: Blocked lanes/vertices aren’t color-coded.
+<div align="center"> <table> <tr> <th>Interaction</th> <th>Effect</th> <th>Visual Feedback</th> </tr> <tr> <td>Left-Click Vertex</td> <td>Spawns new robot</td> <td>Color-coded robot appears</td> </tr> <tr> <td>Right-Click Sequence</td> <td>Assigns navigation task</td> <td>Path visualization appears</td> </tr> <tr> <td>Clear Button</td> <td>System reset</td> <td>All robots removed</td> </tr> </table> </div>
+❌ What's Missing?
+Issue	Impact	Priority
+Dynamic Rerouting	Robots get stuck when paths become blocked	High
+Visual Deadlocks	Difficult to diagnose traffic jams	Medium
+Battery Alerts	Critical failures may go unnoticed	High
+Occupancy Visuals	Hard to see blocked areas	Medium
 🚀 Future Enhancements
-1. ROS (Robot Operating System)
+ROS Integration Roadmap
+mermaid
+Copy
 
-    Why?: ROS enables real-time multi-robot communication and hardware integration.
+gantt
+    title ROS Integration Timeline
+    dateFormat  YYYY-MM-DD
+    section Phase 1
+    Environment Setup     :2023-11-01, 14d
+    Basic Communication  :2023-11-15, 21d
+    section Phase 2
+    Hardware Integration :2023-12-06, 28d
+    Testing              :2024-01-03, 14d
 
-    Use Case:
+Why Not Implemented Now?
 
-        Replace TrafficManager with ROS nodes for decentralized traffic control.
+    Requires significant Linux/Python 2.7 adaptation
 
-        Simulate robots in Gazebo for realistic physics.
+    Would fundamentally change architecture
 
-    Blocker: ROS requires Linux/Python 2.7 compatibility; time-consuming to integrate.
-
-2. Pybotics
-
-    Why?: For industrial robot kinematics (e.g., precise arm movements).
-
-    Use Case:
-
-        Extend robots to handle manipulators (e.g., loading cargo).
-
-    Blocker: Overkill for 2D navigation; focus was on fleet logistics.
-
-3. Robot Framework
-
-    Why?: For automated testing of task assignments.
-
-    Use Case:
-
-        Validate 100+ robots navigating simultaneously.
-
-    Blocker: Needed more time to write test suites.
+    Time constraints for hackathon delivery
 
 📸 Screenshots
-
-(Hypothetical descriptions for a README)
-Spawn Mode	Task Mode
-Spawn robots by clicking vertices.	Assign tasks by selecting robot → destination.
+<div align="center"> <img src="https://via.placeholder.com/600x400/2d3748/ffffff?text=Spawn+Mode" width="45%" alt="Spawn Mode"> <img src="https://via.placeholder.com/600x400/2d3748/ffffff?text=Task+Assignment" width="45%" alt="Task Mode"> </div>
 🎯 Conclusion
 
-This system successfully demonstrates multi-robot pathfinding but would scale better with ROS/Pybotics. The GUI is intuitive, but real-world deployments need dynamic rerouting and hardware integration.
+This system successfully demonstrates:
 
-🌟 Star this repo if you loved it!
+    Multi-agent pathfinding
+
+    Basic collision avoidance
+
+    Interactive fleet management
+
+Next Steps:
+
+    Implement ROS for production deployment
+
+    Add emergency stop protocols
+
+    Develop web-based monitoring dashboard
+
+<div align="center"> <p>🌟 <strong>Star this repository</strong> if you found it useful! 🌟</p> <p>🐛 <strong>Report issues</strong> to help improve the project</p> </div> ```
